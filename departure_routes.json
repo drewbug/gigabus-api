@@ -1,0 +1,813 @@
+{
+  "Albany": [
+    "New York",
+    "Ridgewood"
+  ],
+  "Amherst": [
+    "Burlington",
+    "Hartford",
+    "New York"
+  ],
+  "Ann Arbor": [
+    "Chicago",
+    "Detroit"
+  ],
+  "Athens": [
+    "Atlanta",
+    "Columbia",
+    "Durham",
+    "Fayetteville"
+  ],
+  "Atlanta": [
+    "Athens",
+    "Birmingham",
+    "Charlotte",
+    "Chattanooga",
+    "Chicago",
+    "Christiansburg",
+    "Cincinnati",
+    "Columbia",
+    "Durham",
+    "Fayetteville",
+    "Gainesville",
+    "Indianapolis",
+    "Jacksonville",
+    "Knoxville",
+    "Lexington",
+    "Louisville",
+    "Memphis",
+    "Mobile",
+    "Montgomery",
+    "Nashville",
+    "New Orleans",
+    "Orlando",
+    "Washington"
+  ],
+  "Austin": [
+    "Dallas",
+    "Houston",
+    "San Antonio"
+  ],
+  "Baltimore": [
+    "Boston",
+    "Buffalo",
+    "New York",
+    "Newark",
+    "Philadelphia",
+    "Secaucus",
+    "Toronto",
+    "Washington"
+  ],
+  "Baton Route": [
+    "Houston",
+    "New Orleans"
+  ],
+  "Birmingham": [
+    "Atlanta",
+    "Memphis"
+  ],
+  "Boston": [
+    "Baltimore",
+    "Burlington",
+    "Hartford",
+    "New Haven",
+    "New York",
+    "Philadelphia",
+    "Secaucus",
+    "Washington"
+  ],
+  "Brockville": [
+    "Cornwall",
+    "Kingston",
+    "Kirkland",
+    "Montreal",
+    "Scarborough",
+    "Toronto",
+    "Whitby"
+  ],
+  "Buffalo": [
+    "Baltimore",
+    "Cincinnati",
+    "Cleveland",
+    "Columbus",
+    "Erie",
+    "Fort Erie",
+    "Grimsby",
+    "Mississauga",
+    "New York",
+    "Niagara Falls",
+    "Oakville",
+    "Philadelphia",
+    "Port Colborne",
+    "Rochester",
+    "St. Catharines",
+    "Syracuse",
+    "Toronto",
+    "Washington",
+    "Welland"
+  ],
+  "Burbank": [
+    "Los Angeles",
+    "Oakland",
+    "San Francisco",
+    "San Jose"
+  ],
+  "Burlington": [
+    "Amherst",
+    "Boston",
+    "Hartford",
+    "New York",
+    "Saratoga Springs"
+  ],
+  "Charlotte": [
+    "Atlanta",
+    "Durham",
+    "Richmond",
+    "Washington"
+  ],
+  "Chattanooga": [
+    "Atlanta",
+    "Chicago",
+    "Cincinnati",
+    "Indianapolis",
+    "Knoxville",
+    "Lexington",
+    "Louisville",
+    "Nashville"
+  ],
+  "Chicago": [
+    "Ann Arbor",
+    "Atlanta",
+    "Chattanooga",
+    "Cincinnati",
+    "Cleveland",
+    "Columbia",
+    "Columbus",
+    "Dallas",
+    "Des Moines",
+    "Detroit",
+    "East Lansing",
+    "Grand Rapids ",
+    "Indianapolis",
+    "Iowa City",
+    "Kansas City",
+    "Little Rock",
+    "Louisville",
+    "Madison",
+    "Memphis",
+    "Milwaukee",
+    "Minneapolis",
+    "Nashville",
+    "New York",
+    "Omaha",
+    "St. Louis",
+    "St. Paul",
+    "State College",
+    "Toledo"
+  ],
+  "Christiansburg": [
+    "Atlanta",
+    "Knoxville",
+    "Washington"
+  ],
+  "Cincinnati": [
+    "Atlanta",
+    "Buffalo",
+    "Chattanooga",
+    "Chicago",
+    "Cleveland",
+    "Columbus",
+    "Erie",
+    "Indianapolis",
+    "Knoxville",
+    "Lexington"
+  ],
+  "Cleveland": [
+    "Buffalo",
+    "Chicago",
+    "Cincinnati",
+    "Columbus",
+    "Erie",
+    "New York",
+    "State College",
+    "Toledo"
+  ],
+  "Columbia": [
+    "Athens",
+    "Atlanta",
+    "Chicago",
+    "Durham",
+    "Fayetteville",
+    "Kansas City",
+    "St. Louis"
+  ],
+  "Columbus": [
+    "Buffalo",
+    "Chicago",
+    "Cincinnati",
+    "Cleveland",
+    "Erie",
+    "Indianapolis"
+  ],
+  "Cornwall": [
+    "Brockville",
+    "Kingston",
+    "Kirkland",
+    "Montreal",
+    "Scarborough",
+    "Toronto",
+    "Whitby"
+  ],
+  "Dallas": [
+    "Austin",
+    "Chicago",
+    "Houston",
+    "Little Rock",
+    "Memphis",
+    "San Antonio",
+    "St. Louis"
+  ],
+  "Des Moines": [
+    "Chicago",
+    "Iowa City",
+    "Omaha"
+  ],
+  "Detroit": [
+    "Ann Arbor",
+    "Chicago",
+    "East Lansing",
+    "Grand Rapids "
+  ],
+  "Durham": [
+    "Athens",
+    "Atlanta",
+    "Charlotte",
+    "Columbia",
+    "Fayetteville",
+    "Richmond",
+    "Washington"
+  ],
+  "East Lansing": [
+    "Chicago",
+    "Detroit",
+    "Grand Rapids "
+  ],
+  "Erie": [
+    "Buffalo",
+    "Cincinnati",
+    "Cleveland",
+    "Columbus"
+  ],
+  "Fairhaven": [
+    "New York",
+    "Providence"
+  ],
+  "Fayetteville": [
+    "Athens",
+    "Atlanta",
+    "Columbia",
+    "Durham"
+  ],
+  "Fort Erie": [
+    "Buffalo",
+    "Grimsby",
+    "Mississauga",
+    "Niagara Falls",
+    "Oakville",
+    "Port Colborne",
+    "St. Catharines",
+    "Toronto",
+    "Welland"
+  ],
+  "Gainesville": [
+    "Atlanta",
+    "Jacksonville",
+    "Mobile",
+    "New Orleans",
+    "Orlando",
+    "Tallahassee"
+  ],
+  "Grand Rapids ": [
+    "Chicago",
+    "Detroit",
+    "East Lansing"
+  ],
+  "Grimsby": [
+    "Buffalo",
+    "Fort Erie",
+    "Mississauga",
+    "Niagara Falls",
+    "Oakville",
+    "Port Colborne",
+    "St. Catharines",
+    "Toronto",
+    "Welland"
+  ],
+  "Hampton": [
+    "Richmond",
+    "Washington"
+  ],
+  "Harrisburg": [
+    "Philadelphia",
+    "Pittsburgh",
+    "State College"
+  ],
+  "Hartford": [
+    "Amherst",
+    "Boston",
+    "Burlington",
+    "New Haven",
+    "New York"
+  ],
+  "Houston": [
+    "Austin",
+    "Baton Route",
+    "Dallas",
+    "New Orleans",
+    "San Antonio"
+  ],
+  "Indianapolis": [
+    "Atlanta",
+    "Chattanooga",
+    "Chicago",
+    "Cincinnati",
+    "Columbus",
+    "Louisville",
+    "Nashville"
+  ],
+  "Iowa City": [
+    "Chicago",
+    "Des Moines",
+    "Omaha"
+  ],
+  "Jackson": [
+    "Memphis",
+    "New Orleans",
+    "Oxford"
+  ],
+  "Jacksonville": [
+    "Atlanta",
+    "Gainesville",
+    "Orlando"
+  ],
+  "Kansas City": [
+    "Chicago",
+    "Columbia",
+    "St. Louis"
+  ],
+  "Kingston": [
+    "Brockville",
+    "Cornwall",
+    "Kirkland",
+    "Montreal",
+    "Scarborough",
+    "Toronto",
+    "Whitby"
+  ],
+  "Kirkland": [
+    "Brockville",
+    "Cornwall",
+    "Kingston",
+    "Montreal",
+    "Scarborough",
+    "Toronto",
+    "Whitby"
+  ],
+  "Knoxville": [
+    "Atlanta",
+    "Chattanooga",
+    "Christiansburg",
+    "Cincinnati",
+    "Lexington",
+    "Washington"
+  ],
+  "Las Vegas": [
+    "Los Angeles",
+    "Riverside"
+  ],
+  "Lexington": [
+    "Atlanta",
+    "Chattanooga",
+    "Cincinnati",
+    "Knoxville"
+  ],
+  "Little Rock": [
+    "Chicago",
+    "Dallas",
+    "Memphis",
+    "St. Louis"
+  ],
+  "Los Angeles": [
+    "Burbank",
+    "Las Vegas",
+    "Oakland",
+    "Riverside",
+    "San Francisco",
+    "San Jose"
+  ],
+  "Louisville": [
+    "Atlanta",
+    "Chattanooga",
+    "Chicago",
+    "Indianapolis",
+    "Nashville"
+  ],
+  "Madison": [
+    "Chicago",
+    "Minneapolis",
+    "St. Paul"
+  ],
+  "Memphis": [
+    "Atlanta",
+    "Birmingham",
+    "Chicago",
+    "Dallas",
+    "Jackson",
+    "Little Rock",
+    "New Orleans",
+    "Oxford",
+    "St. Louis"
+  ],
+  "Miami": [
+    "Orlando",
+    "Tampa"
+  ],
+  "Milwaukee": [
+    "Chicago",
+    "Minneapolis",
+    "St. Paul"
+  ],
+  "Minneapolis": [
+    "Chicago",
+    "Madison",
+    "Milwaukee",
+    "St. Paul"
+  ],
+  "Mississauga": [
+    "Buffalo",
+    "Fort Erie",
+    "Grimsby",
+    "Niagara Falls",
+    "Oakville",
+    "Port Colborne",
+    "St. Catharines",
+    "Toronto",
+    "Welland"
+  ],
+  "Mobile": [
+    "Atlanta",
+    "Gainesville",
+    "Montgomery",
+    "New Orleans",
+    "Orlando",
+    "Tallahassee"
+  ],
+  "Montgomery": [
+    "Atlanta",
+    "Mobile",
+    "New Orleans"
+  ],
+  "Montreal": [
+    "Brockville",
+    "Cornwall",
+    "Kingston",
+    "Kirkland",
+    "Scarborough",
+    "Toronto",
+    "Whitby"
+  ],
+  "Morgantown": [
+    "Pittsburgh",
+    "Washington"
+  ],
+  "Nashville": [
+    "Atlanta",
+    "Chattanooga",
+    "Chicago",
+    "Indianapolis",
+    "Louisville"
+  ],
+  "New Haven": [
+    "Boston",
+    "Hartford"
+  ],
+  "New Orleans": [
+    "Atlanta",
+    "Baton Route",
+    "Gainesville",
+    "Houston",
+    "Jackson",
+    "Memphis",
+    "Mobile",
+    "Montgomery",
+    "Orlando",
+    "Oxford",
+    "Tallahassee"
+  ],
+  "New York": [
+    "Albany",
+    "Amherst",
+    "Baltimore",
+    "Boston",
+    "Buffalo",
+    "Burlington",
+    "Chicago",
+    "Cleveland",
+    "Fairhaven",
+    "Hartford",
+    "Newark",
+    "Philadelphia",
+    "Pittsburgh",
+    "Providence",
+    "Ridgewood",
+    "Rochester",
+    "Saratoga Springs",
+    "State College",
+    "Syracuse",
+    "Toledo",
+    "Toronto",
+    "Washington"
+  ],
+  "Newark": [
+    "Baltimore",
+    "New York",
+    "Philadelphia",
+    "Washington"
+  ],
+  "Niagara Falls": [
+    "Buffalo",
+    "Fort Erie",
+    "Grimsby",
+    "Mississauga",
+    "Oakville",
+    "Port Colborne",
+    "St. Catharines",
+    "Toronto",
+    "Welland"
+  ],
+  "Oakland": [
+    "Burbank",
+    "Los Angeles",
+    "San Francisco",
+    "San Jose"
+  ],
+  "Oakville": [
+    "Buffalo",
+    "Fort Erie",
+    "Grimsby",
+    "Niagara Falls",
+    "Port Colborne",
+    "St. Catharines",
+    "Toronto",
+    "Welland"
+  ],
+  "Omaha": [
+    "Chicago",
+    "Des Moines",
+    "Iowa City"
+  ],
+  "Orlando": [
+    "Atlanta",
+    "Gainesville",
+    "Jacksonville",
+    "Miami",
+    "Mobile",
+    "New Orleans",
+    "Tallahassee",
+    "Tampa"
+  ],
+  "Oxford": [
+    "Jackson",
+    "Memphis",
+    "New Orleans"
+  ],
+  "Philadelphia": [
+    "Baltimore",
+    "Boston",
+    "Buffalo",
+    "Harrisburg",
+    "New York",
+    "Newark",
+    "Pittsburgh",
+    "Secaucus",
+    "State College",
+    "Toronto",
+    "Washington"
+  ],
+  "Pittsburgh": [
+    "Harrisburg",
+    "Morgantown",
+    "New York",
+    "Philadelphia",
+    "State College",
+    "Washington"
+  ],
+  "Port Colborne": [
+    "Buffalo",
+    "Fort Erie",
+    "Grimsby",
+    "Mississauga",
+    "Niagara Falls",
+    "Oakville",
+    "St. Catharines",
+    "Toronto",
+    "Welland"
+  ],
+  "Providence": [
+    "Fairhaven",
+    "New York"
+  ],
+  "Reno": [
+    "Sacramento",
+    "San Francisco",
+    "Sparks"
+  ],
+  "Richmond": [
+    "Charlotte",
+    "Durham",
+    "Hampton",
+    "Washington"
+  ],
+  "Ridgewood": [
+    "Albany",
+    "New York"
+  ],
+  "Riverside": [
+    "Las Vegas",
+    "Los Angeles"
+  ],
+  "Rochester": [
+    "Buffalo",
+    "New York",
+    "Syracuse",
+    "Toronto"
+  ],
+  "Sacramento": [
+    "Reno",
+    "San Francisco",
+    "Sparks"
+  ],
+  "San Antonio": [
+    "Austin",
+    "Dallas",
+    "Houston"
+  ],
+  "San Francisco": [
+    "Burbank",
+    "Los Angeles",
+    "Oakland",
+    "Reno",
+    "Sacramento",
+    "San Jose",
+    "Sparks"
+  ],
+  "San Jose": [
+    "Burbank",
+    "Los Angeles",
+    "Oakland",
+    "San Francisco"
+  ],
+  "Saratoga Springs": [
+    "Burlington",
+    "New York"
+  ],
+  "Scarborough": [
+    "Brockville",
+    "Cornwall",
+    "Kingston",
+    "Kirkland",
+    "Montreal",
+    "Toronto",
+    "Whitby"
+  ],
+  "Secaucus": [
+    "Baltimore",
+    "Boston",
+    "Philadelphia",
+    "Washington"
+  ],
+  "Sparks": [
+    "Reno",
+    "Sacramento",
+    "San Francisco"
+  ],
+  "St. Catharines": [
+    "Buffalo",
+    "Fort Erie",
+    "Grimsby",
+    "Mississauga",
+    "Niagara Falls",
+    "Oakville",
+    "Port Colborne",
+    "Toronto",
+    "Welland"
+  ],
+  "St. Louis": [
+    "Chicago",
+    "Columbia",
+    "Dallas",
+    "Kansas City",
+    "Little Rock",
+    "Memphis"
+  ],
+  "St. Paul": [
+    "Chicago",
+    "Madison",
+    "Milwaukee",
+    "Minneapolis"
+  ],
+  "State College": [
+    "Chicago",
+    "Cleveland",
+    "Harrisburg",
+    "New York",
+    "Philadelphia",
+    "Pittsburgh",
+    "Toledo"
+  ],
+  "Syracuse": [
+    "Buffalo",
+    "New York",
+    "Rochester",
+    "Toronto"
+  ],
+  "Tallahassee": [
+    "Gainesville",
+    "Mobile",
+    "New Orleans",
+    "Orlando"
+  ],
+  "Tampa": [
+    "Miami",
+    "Orlando"
+  ],
+  "Toledo": [
+    "Chicago",
+    "Cleveland",
+    "New York",
+    "State College"
+  ],
+  "Toronto": [
+    "Baltimore",
+    "Brockville",
+    "Buffalo",
+    "Cornwall",
+    "Fort Erie",
+    "Grimsby",
+    "Kingston",
+    "Kirkland",
+    "Mississauga",
+    "Montreal",
+    "New York",
+    "Niagara Falls",
+    "Oakville",
+    "Philadelphia",
+    "Port Colborne",
+    "Rochester",
+    "Scarborough",
+    "St. Catharines",
+    "Syracuse",
+    "Washington",
+    "Welland",
+    "Whitby"
+  ],
+  "Washington": [
+    "Atlanta",
+    "Baltimore",
+    "Boston",
+    "Buffalo",
+    "Charlotte",
+    "Christiansburg",
+    "Durham",
+    "Hampton",
+    "Knoxville",
+    "Morgantown",
+    "New York",
+    "Newark",
+    "Philadelphia",
+    "Pittsburgh",
+    "Richmond",
+    "Secaucus",
+    "Toronto"
+  ],
+  "Welland": [
+    "Buffalo",
+    "Fort Erie",
+    "Grimsby",
+    "Mississauga",
+    "Niagara Falls",
+    "Oakville",
+    "Port Colborne",
+    "St. Catharines",
+    "Toronto"
+  ],
+  "Whitby": [
+    "Brockville",
+    "Cornwall",
+    "Kingston",
+    "Kirkland",
+    "Montreal",
+    "Scarborough",
+    "Toronto"
+  ]
+}
