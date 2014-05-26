@@ -16,10 +16,10 @@ end.take_while do |line|
   line != DEPARTURE_JS_END
 end.join
 
-departure_cities = js.scan(/departureCities\['.*'\] = {"name": "(.+)"};/)[1..-1].map(&:first)
+departure_cities = js.scan(/departureCities\['.*'\] = {"name": "(.+)"};/)[1..-1].map(&:first).sort!
 departure_routes = Hash[departure_cities.map { |name| [name, js.scan(/departureCities\['#{name}'\].destination\[\d+\] = {"companyId": \d+, "name": "(.+)"};/).map(&:first)] }]
 
-arrival_cities = departure_routes.values.flatten!(1).uniq!
+arrival_cities = departure_routes.values.flatten!(1).uniq!.sort!
 arrival_routes = Hash[arrival_cities.map { |name| [name, departure_routes.select{|_,v|v.include?(name)}.keys] }]
 
 File.open('departure_routes.json', 'w') do |file|
